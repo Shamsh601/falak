@@ -1,1 +1,4 @@
+HEAD
 modified 2.txt
+modified 2.txt from 1st branch
+first
